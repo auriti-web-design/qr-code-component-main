@@ -11,7 +11,7 @@
 ### Links
 
 - Solution URL: [GitHub Code](https://giuthub.com/auriti-web-design/qr-code-component-main)
-- Live Site URL: [Live URL ](https://your-live-site-url.com)
+- Live Site URL: [Live URL ](https://qr-code-component-rho-seven.vercel.app/)
 
 ## My process
 
